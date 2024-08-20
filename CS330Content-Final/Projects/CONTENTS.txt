@@ -1,0 +1,1 @@
+Pre-created VS assignment and milestone projects, and OpenGLSample demonstrating all OpenGL functionality.

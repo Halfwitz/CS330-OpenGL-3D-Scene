@@ -1,0 +1,2 @@
+C++ Source doe for utilitiy classes
+(GLSL shader manager class, camera class, texture file reading class)
